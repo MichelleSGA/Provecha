@@ -68,10 +68,4 @@
 	  <ProjectReference Include="..\Provecha.BibliotecaCompartida\Provecha.BibliotecaCompartida.csproj" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <Folder Include="ViewModels\" />
-	  <Folder Include="Services\" />
-	  <Folder Include="Views\" />
-	</ItemGroup>
-
 </Project>

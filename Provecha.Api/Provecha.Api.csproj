@@ -15,9 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Data\Entities\" />
-    <Folder Include="Services\" />
     <Folder Include="wwwroot\images\negocios\" />
   </ItemGroup>
 
