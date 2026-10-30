@@ -1,0 +1,6 @@
+@Provecha.Api_HostAddress = http://localhost:5010
+
+GET {{Provecha.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
